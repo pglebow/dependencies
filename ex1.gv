@@ -1,0 +1,4 @@
+graph house {
+ house -- gardener;
+ gardener -- manager -- owner;
+}
